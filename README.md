@@ -17,3 +17,10 @@ Intuitive character building tool where a character exists on the basis of cards
     * Delete cards
     * Deactivate cards
 * History of changes
+
+### Technology
+
+* Docker
+* Python
+  * Flask
+* Elm
