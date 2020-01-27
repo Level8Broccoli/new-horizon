@@ -24,3 +24,7 @@ Intuitive character building tool where a character exists on the basis of cards
 * Python
   * Flask
 * Elm
+
+## Inspiration
+
+* https://www.reddit.com/r/rpg/wiki/gmsoftware
