@@ -2,7 +2,8 @@
 Simple tabletop roleplaying system
 
 ## Goal
-Intuitive character building tool where a character exists on the basis of cards.
+1. Step: Intuitive character building tool where a character exists on the basis of cards.
+2. Step: Diverse functionality for "meta-gaming" (interactivity in between rounds, global storytelling etc.)
 
 ## Plan
 
